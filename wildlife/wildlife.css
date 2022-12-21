@@ -1,0 +1,55 @@
+.overlaytext{
+    text-align: center;
+}
+
+
+
+.survival{ color: green;
+margin-top: 220px;
+margin-left: 50px ;
+font-family:'Times New Roman', Times, serif;
+}
+.survivalpara{
+    margin-left: 50px;
+    text-align: justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.donate{
+    margin-left: 50px;
+}
+.articlecontainer{
+     text-align: center;
+     background-image: url(https://th.bing.com/th/id/R.d0bc85563804efc0c667f72c2232cc6f?rik=3NfIHlGjZyp7nA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2017%2f03%2f28%2f422665-animals-parrot-birds.jpg&ehk=SPQbfa8gy0uy%2bx3IC7kf10u32%2bWCHjnRB7ddtRP4348%3d&risl=1&pid=ImgRaw&r=0);
+    /* color:cornsilk; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height:70vh;
+     
+}
+.img{width: 150px;
+    height: 300px;
+    margin: 20px;
+
+}
+.text{color: aquamarine;
+    margin-top: 180px;
+
+}
+.navbartop{
+    margin-left: 790px;
+
+}
+.navbarbottom{
+    margin-left: 790px;
+}
+.logincontainer{
+    background-image: url(https://th.bing.com/th/id/R.d0bc85563804efc0c667f72c2232cc6f?rik=3NfIHlGjZyp7nA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2017%2f03%2f28%2f422665-animals-parrot-birds.jpg&ehk=SPQbfa8gy0uy%2bx3IC7kf10u32%2bWCHjnRB7ddtRP4348%3d&risl=1&pid=ImgRaw&r=0);
+    /* color:cornsilk; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height:70vh;
+     
+}
